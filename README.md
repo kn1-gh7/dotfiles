@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for BSPWM setup on Arch
+Dotfiles for my bspwm config on Arch
