@@ -1,0 +1,21 @@
+@import 'https://raw.githubusercontent.com/b4skyx/discord-serenade/master/discord_serenade.css';
+.theme-dark {
+    --background-primary: #282c34;
+    --background-secondary: #282c34;
+    --background-tertiary: #282c34;
+    --background-tertiary-alt: #282c34;
+    --background-accent: #282c34;
+    --text-normal: #abb2bf;
+    --text-spotify: #98C379;
+    --text-muted: #61AFEF;
+    --text-link: #98C379;
+    --background-floating: #282c34;
+    --background-mentioned: #2e3338;
+    --header-primary: #61AFEF;
+    --header-secondary: #C678DD;
+    --header-spotify: #98C379;
+    --interactive-normal: #61AFEF;
+    --interactive-hover: #C678DD;
+    --interactive-active: #61AFEF;
+    --server-radius: 4%;
+}

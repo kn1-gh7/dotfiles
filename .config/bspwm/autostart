@@ -1,0 +1,7 @@
+#!/bin/sh
+
+pgrep conky || conky &
+xrdb ~/.Xresources
+xss-lock /home/kn1gh7/.scripts/lock.sh &
+xautolock -detectsleep -time 5 -locker ~/.scripts/lock.sh -notify 30 -notifier "notify-send -u critical -t 10000 -- 'LOCKING screen in 30 seconds'" &
+~/.config/polybar/launch.sh &

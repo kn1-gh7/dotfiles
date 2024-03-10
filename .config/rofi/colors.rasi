@@ -1,0 +1,17 @@
+* {
+	/* Theme Colors */
+	bg: 	#282C34;
+	bg1: 	#373d41;
+	bg2: 	#474f54;
+	red: 	#E06C75;
+	green: 	#98C379;
+	yellow: #E5C07b;
+	blue: 	#61AFEF;
+	magenta:#C678DD;
+	cyan: 	#56B6C2;
+	fg: 	#ABB2BF;
+	fg1: 	#d8caac;
+	fg2: 	#b3cfa7;
+
+	transparent: #00000000;
+}
